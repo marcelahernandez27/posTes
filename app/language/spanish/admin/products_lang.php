@@ -111,4 +111,4 @@ $lang['Promotion']                                  = "Promocion";
 $lang['select_unit_first']                          = "Seleccione la unidad primero";
 $lang['weight']                          			= "Peso";
 $lang['second_name']                          		= "Nombre Opcional";
-$lang['slug']                          				= "Titulo";
+$lang['slug']                          				= "Titulo ";
